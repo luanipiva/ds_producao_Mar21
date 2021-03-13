@@ -1,5 +1,5 @@
-url <- "https://www.incimages.com/uploaded_files/image/1920x1080/GettyImages-950523108_357698.jpg"
-<center><img src="`r url`"></center>
+#url <- "https://www.incimages.com/uploaded_files/image/1920x1080/GettyImages-950523108_357698.jpg"
+#<center><img src="`r url`"></center>
 
 ![Image](https://www.incimages.com/uploaded_files/image/1920x1080/GettyImages-950523108_357698.jpg)
 
