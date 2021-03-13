@@ -1,4 +1,3 @@
-![image info](./Desktop/comunidadeDS.png)
 
 # Curso DS em Produção
 
