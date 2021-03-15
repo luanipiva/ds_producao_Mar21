@@ -3,7 +3,8 @@
 
 
 
-# Curso DS em Produção
+# Curso DS em Produção - Comunidade DS
+Mês de realização: Março de 2021.
 
 Contatos:
 * E-mail: <luani.piva@laura-br.com>; <luanipiva@yahoo.com.br>
