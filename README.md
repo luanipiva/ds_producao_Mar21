@@ -36,4 +36,19 @@ O que é obrigatório em um projeto de portfólio?
   - Novas ideias;
   - O que pode ser melhorado.
 
-A seguir serão detalhados os projetos que integram o presente portfólio.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Módulo 1
+
+2. Módulo 2
+
+3. Módulo 3
+
+4. Módulo 4
+
+5. Módulo 5
+
+6. Módulo 6
+
+7. Módulo 7
+
