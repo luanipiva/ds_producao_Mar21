@@ -51,7 +51,55 @@ O que é obrigatório em um projeto de portfólio?
   * Variáveis numéricas.
 
 2. Módulo 2
+* Mapa mental das hipóteses
+* Criação das hipóteses:
+  * Hipóteses lojas
+  1. Lojas com número maior de funcionários deveriam vender mais.
+  2. Lojas com maior capacidade de estoque deveriam vender mais.
+  3. Lojas com maior porte deveriam vender mais.
+  4. Lojas com maior sortimentos deveriam vender mais.
+  5. Lojas com competidores mais próximos deveriam vender menos.
+  6. Lojas com competidores à mais tempo deveriam vendem mais.
 
+  * Hipóteses produtos
+  1. Lojas que investem mais em Marketing deveriam vender mais.
+  2. Lojas com maior exposição de produto deveriam vender mais.
+  3. Lojas com produtos com preço menor deveriam vender mais.
+  5. Lojas com promoções mais agressivas (descontos maiores), deveriam vender mais.
+  6. Lojas com promoções ativas por mais tempo deveriam vender mais.
+  7. Lojas com mais dias de promoção deveriam vender mais.
+  8. Lojas com mais promoções consecutivas deveriam vender mais.
+
+  * Hipóteses tempo
+  1. Lojas abertas durante o feriado de Natal deveriam vender mais.
+  2. Lojas deveriam vender mais ao longo dos anos.
+  3. Lojas deveriam vender mais no segundo semestre do ano.
+  4. Lojas deveriam vender mais depois do dia 10 de cada mês.
+  5. Lojas deveriam vender menos aos finais de semana.
+  6. Lojas deveriam vender menos durante os feriados escolares.
+ 
+ * Lista Final de Hipóteses:
+ Lojas
+ 1. Lojas com maior sortimentos deveriam vender mais.
+ 2. Lojas com competidores mais próximos deveriam vender menos.
+ 3. Lojas com competidores à mais tempo deveriam vendem mais.
+
+ Produtos
+ 1. Lojas com promoções ativas por mais tempo deveriam vender mais.
+ 2. Lojas com mais dias de promoção deveriam vender mais.
+ 3. Lojas com mais promoções consecutivas deveriam vender mais.
+
+ Tempo
+ 1. Lojas abertas durante o feriado de Natal deveriam vender mais.
+ 2. Lojas deveriam vender mais ao longo dos anos.
+ 3. Lojas deveriam vender mais no segundo semestre do ano.
+ 4. Lojas deveriam vender mais depois do dia 10 de cada mês.
+ 5. Lojas deveriam vender menos aos finais de semana.
+ 6. Lojas deveriam vender menos durante os feriados escolares.
+
+ * Feature engineering
+ 
+ 
 3. Módulo 3
 
 4. Módulo 4
