@@ -39,6 +39,16 @@ O que é obrigatório em um projeto de portfólio?
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Módulo 1
+* Descrição dos dados
+* Renomear colunar
+* Dimensões do dataframe
+* Tipos de variáveis
+* Checar NA's
+* Preencher NA's
+* Mudar tipos das variáveis
+* Estatística descritiva dos dados 
+  * Variáveis categóricas;
+  * Variáveis numéricas.
 
 2. Módulo 2
 
